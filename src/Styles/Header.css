@@ -1,0 +1,55 @@
+h3 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.logo-img {
+    height: 150px;
+    width: 150px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.headerBox {
+    display: flex;
+    padding: 0px 102px 0px 50px;
+    justify-content: space-between;
+    height: 100px;
+}
+
+.headerLogo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.headerNav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+}
+
+.headerNavLogin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 45px;
+    background-color: #000000;
+}
+
+.h3White {
+    color: white;
+}
+
+.headerNavLogin:hover  {
+    transform: scale(1.1);
+  }
+
