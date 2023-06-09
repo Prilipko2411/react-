@@ -1,6 +1,7 @@
 import Header from "./components/Header/Header";
 import LeftNavBar from "./components/LeftNavBar/LeftNavBar";
 import Container from "./components/Container/Conteiner";
+import Voting from "./components/Container/Voting";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <LeftNavBar/>
       <Container/>
       </div>
+      <Voting/>
   
 
     </div>
