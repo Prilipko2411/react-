@@ -1,0 +1,41 @@
+
+#box4ToDoList {
+    padding-left: 42px;
+    padding-bottom: 70px;
+}
+
+#toDoForm {
+    display: flex;
+}
+
+#toDoForm h1 {
+    padding-left: 42px;
+}
+
+li {
+
+    list-style-type: none;
+    font-size: 20px;
+
+}
+
+#toDoInput {
+    width: 367px;
+    height: 48px;
+    font-size: 20px;
+    background: #FFFFFF;
+    border: 1px solid #D0D4D9;
+    border-radius: 12px 0px 0px 12px;
+}
+
+#ToDoButton {
+    width: 52px;
+    height: 52px;
+    background: black;
+    color: #FFFFFF;
+    border: 1px solid #D0D4D9;
+}
+
+.plusButtonToDoList {
+    height: 30px;
+}

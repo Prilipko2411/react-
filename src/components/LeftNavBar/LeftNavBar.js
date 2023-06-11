@@ -1,4 +1,4 @@
-import '../../Styles/LeftNavBar.css'
+import '../LeftNavBar/LeftNavBar.css'
 import TShirt from '../../Assets/Images/T-Shirt.png'
 import Poliver from '../../Assets/Images/Poliver.png'
 import Hoodie from '../../Assets/Images/Hoodie.png'
