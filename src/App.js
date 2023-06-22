@@ -1,6 +1,7 @@
 import Header from "./components/Header/Header";
 import LeftNavBar from "./components/LeftNavBar/LeftNavBar";
 import Container from "./components/Container/Conteiner";
+import Router from "./components/React-router/React-router";
 
 function App() {
   return (
@@ -18,8 +19,7 @@ function App() {
       <LeftNavBar/>
       <Container/>
       </div>
-  
-
+      <Router/>
     </div>
   );
 }
