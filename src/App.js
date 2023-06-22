@@ -1,7 +1,6 @@
 import Header from "./components/Header/Header";
 import LeftNavBar from "./components/LeftNavBar/LeftNavBar";
 import Container from "./components/Container/Conteiner";
-import ToDo from "./components/ToDoList/ToDoList"
 import Contacts from "./components/Contacts/Contacts"
 import React from "react";
 
@@ -20,8 +19,7 @@ function App() {
       >
       <LeftNavBar/>
       <Container/>
-      </div>
-      <ToDo/>
+      </div>gi
       <div>
         <Contacts/>
       </div>
